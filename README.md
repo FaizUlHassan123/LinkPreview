@@ -1,3 +1,7 @@
 # LinkPreview
 LinkPresentation Demo Project for ios
-![Screenshot](Images/Simulator.png)
+
+<p align="center">
+  <img src="Images/Simulator.png" width="350" title="hover text">
+  <img src="Images/Simulator.png" width="350" alt="accessibility text">
+</p>
